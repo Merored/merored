@@ -8,6 +8,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Merored alt=Merored /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Merored&show_icons=true&include_all_commits=true)](https://github.com/Merored/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Merored&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/Merored/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merored&layout=compact)](https://github.com/Merored/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merored&theme=synthwave&layout=compact)](https://github.com/Merored/github-readme-stats)
