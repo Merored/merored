@@ -1,5 +1,5 @@
 ## Hey 👋, This is Vladislav Sventik
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/vladislavs65a221212/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/vladislavs65a221212//)](https://www.linkedin.com/in/https://www.linkedin.com/in/vladislavs65a221212//) [![Github Badge](https://img.shields.io/badge/-Merored-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Merored/)](https://www.github.com/Merored/) <p align='left'>Php-developer rolling over to golang</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Merored-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merored//)](https://www.linkedin.com/in/merored/) [![Github Badge](https://img.shields.io/badge/-Merored-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Merored/)](https://www.github.com/Merored/) <p align='left'>Php-developer rolling over to golang</p>
 
 - 🌚 I'm php-developer rolling over to golang
 - 💬 Let's talk about Software Architecture, Golang, Relocation, Development Patterns.
