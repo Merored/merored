@@ -3,7 +3,7 @@
 
 - 🌚 I'm php-developer rolling over to golang
 - 💬 Let's talk about Software Architecture, Golang, Relocation, Development Patterns.
-- 🌏 Originally from **Khabarovsk** 🇷🇺, now based in **Erevan** 🇦🇲
+- 🌏 Originally from **Khabarovsk** 🇷🇺, now based in **Belgrade** 🇷🇸
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Merored alt=Merored /> </p>
